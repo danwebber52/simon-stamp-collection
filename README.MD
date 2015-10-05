@@ -1,6 +1,6 @@
 simon's stamp collection app
 ---]
 
-#about
+#about simon
 
 stuff about simon stamps...
